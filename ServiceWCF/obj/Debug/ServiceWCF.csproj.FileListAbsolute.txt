@@ -28,3 +28,18 @@ C:\Users\Justin\Documents\Visual Studio 2013\Projects\Projet - Agence immobiliè
 C:\Users\Justin\Documents\Visual Studio 2013\Projects\Projet - Agence immobilière\ServiceWCF\bin\EntityFramework.xml
 C:\Users\Justin\Documents\Visual Studio 2013\Projects\Projet - Agence immobilière\ServiceWCF\bin\EntityFramework.SqlServer.xml
 C:\Users\Justin\Documents\Visual Studio 2013\Projects\Projet - Agence immobilière\ServiceWCF\bin\System.Data.SQLite.xml
+\\Mac\Home\OneDrive\Scolaire\DUT INFO\_2A\C#\TP2 - Gestion-Immobiliere\ServiceWCF\bin\SQL\agence.db
+\\Mac\Home\OneDrive\Scolaire\DUT INFO\_2A\C#\TP2 - Gestion-Immobiliere\ServiceWCF\bin\ServiceWCF.dll.config
+\\Mac\Home\OneDrive\Scolaire\DUT INFO\_2A\C#\TP2 - Gestion-Immobiliere\ServiceWCF\bin\ServiceWCF.dll
+\\Mac\Home\OneDrive\Scolaire\DUT INFO\_2A\C#\TP2 - Gestion-Immobiliere\ServiceWCF\bin\ServiceWCF.pdb
+\\Mac\Home\OneDrive\Scolaire\DUT INFO\_2A\C#\TP2 - Gestion-Immobiliere\ServiceWCF\bin\EntityFramework.dll
+\\Mac\Home\OneDrive\Scolaire\DUT INFO\_2A\C#\TP2 - Gestion-Immobiliere\ServiceWCF\bin\EntityFramework.SqlServer.dll
+\\Mac\Home\OneDrive\Scolaire\DUT INFO\_2A\C#\TP2 - Gestion-Immobiliere\ServiceWCF\bin\System.Data.SQLite.dll
+\\Mac\Home\OneDrive\Scolaire\DUT INFO\_2A\C#\TP2 - Gestion-Immobiliere\ServiceWCF\bin\System.Data.SQLite.EF6.dll
+\\Mac\Home\OneDrive\Scolaire\DUT INFO\_2A\C#\TP2 - Gestion-Immobiliere\ServiceWCF\bin\System.Data.SQLite.Linq.dll
+\\Mac\Home\OneDrive\Scolaire\DUT INFO\_2A\C#\TP2 - Gestion-Immobiliere\ServiceWCF\bin\EntityFramework.xml
+\\Mac\Home\OneDrive\Scolaire\DUT INFO\_2A\C#\TP2 - Gestion-Immobiliere\ServiceWCF\bin\EntityFramework.SqlServer.xml
+\\Mac\Home\OneDrive\Scolaire\DUT INFO\_2A\C#\TP2 - Gestion-Immobiliere\ServiceWCF\bin\System.Data.SQLite.xml
+\\Mac\Home\OneDrive\Scolaire\DUT INFO\_2A\C#\TP2 - Gestion-Immobiliere\ServiceWCF\obj\Debug\ServiceWCF.csprojResolveAssemblyReference.cache
+\\Mac\Home\OneDrive\Scolaire\DUT INFO\_2A\C#\TP2 - Gestion-Immobiliere\ServiceWCF\obj\Debug\ServiceWCF.dll
+\\Mac\Home\OneDrive\Scolaire\DUT INFO\_2A\C#\TP2 - Gestion-Immobiliere\ServiceWCF\obj\Debug\ServiceWCF.pdb

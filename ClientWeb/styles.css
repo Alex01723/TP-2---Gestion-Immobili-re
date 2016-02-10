@@ -1,0 +1,8 @@
+﻿body {
+}
+#MenuBar {
+    position: static;
+    padding: 3px;
+    height: auto;
+    background-color: blue;
+}

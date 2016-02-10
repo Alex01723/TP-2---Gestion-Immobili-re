@@ -4,15 +4,23 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
 C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ClientWPF\obj\Debug\
+=======
+\\Mac\Home\OneDrive\Scolaire\DUT INFO\_2A\C#\TP2 - Gestion-Immobiliere\ClientWPF\obj\Debug\
+>>>>>>> origin/master
 ClientWPF
 none
 false
 DEBUG;TRACE
+<<<<<<< HEAD
 C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ClientWPF\App.xaml
+=======
+\\Mac\Home\OneDrive\Scolaire\DUT INFO\_2A\C#\TP2 - Gestion-Immobiliere\ClientWPF\App.xaml
+>>>>>>> origin/master
 11151548125
 
-10-1398135821
+10-767188177
 15152986788
 MainWindow.xaml;
 

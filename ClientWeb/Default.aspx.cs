@@ -11,7 +11,9 @@ namespace ClientWeb
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            using (ServiceAgence.AgenceClient client = new ServiceAgence.AgenceClient()){
 
+            }
         }
     }
 }

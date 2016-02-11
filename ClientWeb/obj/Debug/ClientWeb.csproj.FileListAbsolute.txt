@@ -58,3 +58,4 @@ C:\Users\Justin\Documents\Visual Studio 2013\Projects\Projet - Agence immobiliè
 \\Mac\Home\OneDrive\Scolaire\DUT INFO\_2A\C#\TP2 - Gestion-Immobiliere\ClientWeb\obj\Debug\ClientWeb.csprojResolveAssemblyReference.cache
 \\Mac\Home\OneDrive\Scolaire\DUT INFO\_2A\C#\TP2 - Gestion-Immobiliere\ClientWeb\obj\Debug\ClientWeb.dll
 \\Mac\Home\OneDrive\Scolaire\DUT INFO\_2A\C#\TP2 - Gestion-Immobiliere\ClientWeb\obj\Debug\ClientWeb.pdb
+\\Mac\Home\OneDrive\Scolaire\DUT INFO\_2A\C#\TP2 - Gestion-Immobiliere\ClientWeb\bin\AjaxControlToolkit.dll

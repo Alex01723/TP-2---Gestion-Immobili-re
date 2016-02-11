@@ -38,6 +38,28 @@ C:\Users\Justin\Documents\Visual Studio 2013\Projects\Projet - Agence immobiliè
 C:\Users\Justin\Documents\Visual Studio 2013\Projects\Projet - Agence immobilière\ClientWeb\obj\Debug\ClientWeb.csprojResolveAssemblyReference.cache
 C:\Users\Justin\Documents\Visual Studio 2013\Projects\Projet - Agence immobilière\ClientWeb\obj\Debug\ClientWeb.dll
 C:\Users\Justin\Documents\Visual Studio 2013\Projects\Projet - Agence immobilière\ClientWeb\obj\Debug\ClientWeb.pdb
+<<<<<<< HEAD
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ClientWeb\bin\roslyn\csc.exe
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ClientWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ClientWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ClientWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ClientWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ClientWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ClientWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ClientWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ClientWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ClientWeb\bin\roslyn\vbc.exe
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ClientWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ClientWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ClientWeb\bin\ClientWeb.dll.config
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ClientWeb\bin\ClientWeb.dll
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ClientWeb\bin\ClientWeb.pdb
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ClientWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ClientWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ClientWeb\obj\Debug\ClientWeb.csprojResolveAssemblyReference.cache
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ClientWeb\obj\Debug\ClientWeb.dll
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ClientWeb\obj\Debug\ClientWeb.pdb
+=======
 \\Mac\Home\OneDrive\Scolaire\DUT INFO\_2A\C#\TP2 - Gestion-Immobiliere\ClientWeb\bin\roslyn\csc.exe
 \\Mac\Home\OneDrive\Scolaire\DUT INFO\_2A\C#\TP2 - Gestion-Immobiliere\ClientWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 \\Mac\Home\OneDrive\Scolaire\DUT INFO\_2A\C#\TP2 - Gestion-Immobiliere\ClientWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -58,4 +80,8 @@ C:\Users\Justin\Documents\Visual Studio 2013\Projects\Projet - Agence immobiliè
 \\Mac\Home\OneDrive\Scolaire\DUT INFO\_2A\C#\TP2 - Gestion-Immobiliere\ClientWeb\obj\Debug\ClientWeb.csprojResolveAssemblyReference.cache
 \\Mac\Home\OneDrive\Scolaire\DUT INFO\_2A\C#\TP2 - Gestion-Immobiliere\ClientWeb\obj\Debug\ClientWeb.dll
 \\Mac\Home\OneDrive\Scolaire\DUT INFO\_2A\C#\TP2 - Gestion-Immobiliere\ClientWeb\obj\Debug\ClientWeb.pdb
+<<<<<<< HEAD
 \\Mac\Home\OneDrive\Scolaire\DUT INFO\_2A\C#\TP2 - Gestion-Immobiliere\ClientWeb\bin\AjaxControlToolkit.dll
+=======
+>>>>>>> origin/master
+>>>>>>> origin/master

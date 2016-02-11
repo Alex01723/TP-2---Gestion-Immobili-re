@@ -28,6 +28,23 @@ C:\Users\Justin\Documents\Visual Studio 2013\Projects\Projet - Agence immobiliè
 C:\Users\Justin\Documents\Visual Studio 2013\Projects\Projet - Agence immobilière\ServiceWCF\bin\EntityFramework.xml
 C:\Users\Justin\Documents\Visual Studio 2013\Projects\Projet - Agence immobilière\ServiceWCF\bin\EntityFramework.SqlServer.xml
 C:\Users\Justin\Documents\Visual Studio 2013\Projects\Projet - Agence immobilière\ServiceWCF\bin\System.Data.SQLite.xml
+<<<<<<< HEAD
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ServiceWCF\bin\SQL\agence.db
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ServiceWCF\bin\ServiceWCF.dll.config
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ServiceWCF\bin\ServiceWCF.dll
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ServiceWCF\bin\ServiceWCF.pdb
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ServiceWCF\bin\EntityFramework.dll
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ServiceWCF\bin\EntityFramework.SqlServer.dll
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ServiceWCF\bin\System.Data.SQLite.dll
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ServiceWCF\bin\System.Data.SQLite.EF6.dll
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ServiceWCF\bin\System.Data.SQLite.Linq.dll
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ServiceWCF\bin\EntityFramework.xml
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ServiceWCF\bin\EntityFramework.SqlServer.xml
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ServiceWCF\bin\System.Data.SQLite.xml
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ServiceWCF\obj\Debug\ServiceWCF.csprojResolveAssemblyReference.cache
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ServiceWCF\obj\Debug\ServiceWCF.dll
+C:\Users\Justin\Documents\Visual Studio 2013\Projects\TP2 - Gestion Immobilière2\TP-2---Gestion-Immobiliere\ServiceWCF\obj\Debug\ServiceWCF.pdb
+=======
 \\Mac\Home\OneDrive\Scolaire\DUT INFO\_2A\C#\TP2 - Gestion-Immobiliere\ServiceWCF\bin\SQL\agence.db
 \\Mac\Home\OneDrive\Scolaire\DUT INFO\_2A\C#\TP2 - Gestion-Immobiliere\ServiceWCF\bin\ServiceWCF.dll.config
 \\Mac\Home\OneDrive\Scolaire\DUT INFO\_2A\C#\TP2 - Gestion-Immobiliere\ServiceWCF\bin\ServiceWCF.dll
@@ -43,3 +60,4 @@ C:\Users\Justin\Documents\Visual Studio 2013\Projects\Projet - Agence immobiliè
 \\Mac\Home\OneDrive\Scolaire\DUT INFO\_2A\C#\TP2 - Gestion-Immobiliere\ServiceWCF\obj\Debug\ServiceWCF.csprojResolveAssemblyReference.cache
 \\Mac\Home\OneDrive\Scolaire\DUT INFO\_2A\C#\TP2 - Gestion-Immobiliere\ServiceWCF\obj\Debug\ServiceWCF.dll
 \\Mac\Home\OneDrive\Scolaire\DUT INFO\_2A\C#\TP2 - Gestion-Immobiliere\ServiceWCF\obj\Debug\ServiceWCF.pdb
+>>>>>>> origin/master
